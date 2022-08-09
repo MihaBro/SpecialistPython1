@@ -37,5 +37,12 @@ n = 12
 
 ```python
 # TODO: you code here...
+cost = 9.99
+n = 12
+num = 1
+while num <= n:
+    print(num, cost * num, "рублей")
+    num = num + 1
+
 ```
 
